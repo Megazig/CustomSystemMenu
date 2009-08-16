@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<main>
+	<song filename="Track 01.mp3" 
+		artist="Nobody" 
+		length="1:00" 
+		genre="Rap" />
+</main>
+

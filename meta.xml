@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Mii-Place</name>
+  <coder>Rolyataylor2</coder>
+  <version>0.0.2</version>
+  <release_date>20090426200000</release_date>
+  <short_description>Social OS</short_description> 
+  <long_description>This project is meant to replace the standard system OS for the ninendo wii. As of now there is no real functionality but hopefully soon there will be.</long_description> 
+</app>
